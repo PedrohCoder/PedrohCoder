@@ -5,7 +5,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedorosantos&theme=tokyonight&hide=yacc&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=pedorosantos)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedorosantos)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🎥  Ferramentas de vídeo:
 ![AFTER EFFECTS](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
