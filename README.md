@@ -2,7 +2,7 @@
 > Tenho 17 anos e atualmente trabalho como editor de vídeo e Film-Maker.
 
 - 🌱 estou procurando aprender novas linguagens.
-
+<hr>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedorosantos&theme=tokyonight&hide=yacc&layout=compact)
 
 ## 🎥  Ferramentas de vídeo:
