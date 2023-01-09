@@ -3,8 +3,6 @@
 
 - 🌱 estou procurando aprender novas linguagens.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=pedorosantos&include_all_commits=true&theme=tokyonight)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedorosantos&theme=tokyonight&hide=yacc&layout=compact)
 
 ## 🎥  Ferramentas de vídeo:
