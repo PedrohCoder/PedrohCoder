@@ -1,4 +1,4 @@
-### ➤ Eae! Eu sou o Pedro Henrique. 👋
+### Eae! Eu sou o Pedro Henrique. 👋
 > Tenho 17 anos e atualmente trabalho como editor de vídeo e Film-Maker.
 
 - 🌱 estou procurando aprender novas linguagens.
