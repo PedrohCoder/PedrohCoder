@@ -1,4 +1,4 @@
-### Eae! Eu sou o Pedro Henrique dos Santos
+### Eae! Eu sou o Pedro Henrique. 👋
 
 
 - 🔭 I’m currently working on ...
