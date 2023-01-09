@@ -5,6 +5,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedorosantos&theme=tokyonight&hide=yacc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedorosantos&show_icons=true)
 
 ## 🎥  Ferramentas de vídeo:
 ![AFTER EFFECTS](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
@@ -13,3 +14,4 @@
 ## 🚀 Linguagens e ferramentas:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
