@@ -1,7 +1,5 @@
 ### Eae! Eu sou o Pedro Henrique. 👋
-
-- 🌱 Estou procurando aprender novas linguagens.
-- 📫 Atualmente eu pretendo ser um engenheiro de software.
+> Tenho 17 anos e estou procurando aprender novas linguagens.
 
 - 🎥 Atualmente trabalho como editor de vídeo e Film-Maker...
 
