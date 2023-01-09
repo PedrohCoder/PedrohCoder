@@ -4,8 +4,8 @@
 - 🌱 estou procurando aprender novas linguagens.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedorosantos&theme=tokyonight&hide=yacc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pedorosantos&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedorosantos&theme=tokyonight&hide=yacc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pedorosantos)
 
 ## 🎥  Ferramentas de vídeo:
 ![AFTER EFFECTS](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
