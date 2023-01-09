@@ -1,7 +1,7 @@
 ### Eae! Eu sou o Pedro Henrique. 👋
-> Tenho 17 anos e estou procurando aprender novas linguagens.
+> Tenho 17 anos e atualmente trabalho como editor de vídeo e Film-Maker.
 
-- 🎥 Atualmente trabalho como editor de vídeo e Film-Maker...
+- 🌱 estou procurando aprender novas linguagens.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedorosantos&theme=tokyonight&hide=yacc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
