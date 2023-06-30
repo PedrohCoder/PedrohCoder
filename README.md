@@ -1,7 +1,7 @@
 ### Eae! Eu sou o Pedro Henrique. 👋
-> Tenho 17 anos e atualmente trabalho como editor de vídeo e Film-Maker.
+> Tenho 17 anos e atualmente trabalho como operador de CallCenter, mas um dia pretendo ser engenheiro de software.
 
-- 🌱 estou procurando aprender novas linguagens.
+- 🌱 estou procurando expandir meus conhecimentos a cada dia!
 <hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedorosantos&theme=tokyonight&hide=yacc&layout=compact)
