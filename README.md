@@ -1,5 +1,5 @@
 ### Eae! Eu sou o Pedro Henrique. 👋
-> Tenho 17 anos e atualmente trabalho como operador de CallCenter, mas um dia pretendo ser engenheiro de software.
+> Graduando em Analise e desenvolvimento de sistemas.
 
 - 🌱 estou procurando expandir meus conhecimentos a cada dia!
 <hr>
