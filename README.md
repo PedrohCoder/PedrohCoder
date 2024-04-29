@@ -8,6 +8,7 @@ I have more than two years' experience in video editing and design, and this mak
 to always deliver what is asked of me and that's what sets me apart!
 
 <hr>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedorosantos&theme=tokyonight&hide=yacc&layout=compact)
 
 ## 🎥  Video tools:
@@ -42,7 +43,7 @@ to always deliver what is asked of me and that's what sets me apart!
   ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ##
 
-## 📥 Onde me encontrar:
+## 📥 Where to find me:
 <p align="left">
 
   <a href="https://www.linkedin.com/in/pedro-santos-25b57b261/" alt="Linkedin">
