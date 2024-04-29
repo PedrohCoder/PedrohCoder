@@ -1,8 +1,10 @@
-### Hey! I'm Pedro Henrique. 👋
+### 	🇧🇷 Hey! I'm Pedro Henrique. 👋
 > Graduating in Systems Analysis and Development.
 
 - 🌱 i'm looking to expand my knowledge every day!
 <hr>
+
+I'm a Brazilian development student and I've been working in the field for some time,
 
 I have more than two years' experience in video editing and design, and this makes it much easier for me to create a layout.
 to always deliver what is asked of me and that's what sets me apart!
