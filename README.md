@@ -29,7 +29,7 @@ My main objective is to improve my level of English and improve my back-end skil
 </div>
 <h4> 📍 Tools: </h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,arch,docker,figma,jest,n8n" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,arch,docker,figma,jest" />
 </div>
 <h4> 📍 Others: </h4>
 <div align="left">
