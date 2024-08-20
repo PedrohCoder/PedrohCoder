@@ -1,54 +1,43 @@
-### 	🇧🇷 Hey! I'm Pedro Henrique. 👋
-> Graduating in Systems Analysis and Development.
 
-- 🌱 i'm looking to expand my knowledge every day!
-<hr>
+|  | |
+|-|-|
+| <img align="left" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWFqbTVxeHljZWJybGxvcnVmeGEzYjRmZXhxN2kzb3pxZzhkYzMweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cOSbH8NoUFt9MXbuie/giphy.webp" width="730" height="400">| <h3 align="center"><em>👋 Welcome! I am</em></h3><div><img align="right" width="300" src="https://github.com/PedrohCoder/PedoroSantos/blob/main/titlegif"><br /><h3 align="center">~ 𝚆𝚎𝚋 𝙵𝚞𝚕𝚕-𝚂𝚝𝚊𝚌𝚔 ~</h3><hr/><br/><div align="center"><p>📥 Contacts</p><a href="https://www.linkedin.com/in/pedro-henrique-25b57b261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href="mailto:pedrohsssam123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div></div> |
+<br>
 
-I'm a Brazilian development student and I've been working in the field for some time,
-
-I have more than two years' experience in video editing and design, and this makes it much easier for me to create a layout.
-to always deliver what is asked of me and that's what sets me apart!
-
-<hr>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedorosantos&theme=tokyonight&hide=yacc&layout=compact)
-
-## 🎥  Video tools:
-![AFTER EFFECTS](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
-![PREMIERE](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-## 🚀 Languages and tools:
- #### Front End
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-  
- #### Back End
-  ![PHP](https://img.shields.io/badge/Php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-  
- #### DataBase
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
- #### Game Development
-  ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-  ![GameMaker Studio 2](https://img.shields.io/badge/GameMaker_Language-000000.svg?style=for-the-badge&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAZlBMVEX%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F%2BrG8stAAAAIXRSTlMABg0OFBkfcn1%2Bf4CBgoOFhoeIiouWmNDa5ebp8PX2%2B%2F6o6Vq%2BAAAAY0lEQVR42k2OWQ6AIAwFn%2BIOioobrnD%2FS4o0EeanmQxNAdErRFTWtsFq6%2BiiZozz0CSnTjYBwo0RkF8DWDLf51Ni9K%2FYdq0Fy3KAfzk97M7goK1F%2F4rGH9Kk1OlboQtEDIrmC%2BU3CVxTr%2FRMAAAAAElFTkSuQmCC)
-
-### Tools
-  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-  ![Figma](https://img.shields.io/badge/figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E)
-##
-
-## 📥 Where to find me:
+## <center>↳ 𝚆𝚑𝚘 𝚊𝚖 𝙸?
 <p align="left">
+    I'm a Brazilian 🇧🇷 development student and have been working in the area for some time. <br>
+My main objective is to improve my level of English and improve my back-end skills, especially in Java. I currently work as a full-stack node.js developer and I am always willing to learn new things. 🌱 
+</p>
 
-  <a href="https://www.linkedin.com/in/pedro-santos-25b57b261/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-santos-25b57b261/" /></a>
+> I am studying my degree in the area of ​​development at Senac University,
 
-</p>  
+<br>
+
+## <center> ↳   𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:
+<h4> 📍 Front-end: </h4>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=react,next,sass,css,html,bootstrap,javascript" />
+</div>
+<h4> 📍 Back-end: </h4>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=typescript,nodejs,express,php,java" />
+</div>
+<h4> 📍 Database: </h4>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql" />
+</div>
+<h4> 📍 Tools: </h4>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,docker,figma,jest" />
+</div>
+<h4> 📍 Others: </h4>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=unreal,gamemakerstudio" />
+</div>
+<h4> 📍 Studyng: </h4>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=spring" />
+</div>
+
+
