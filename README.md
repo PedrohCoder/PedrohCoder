@@ -17,7 +17,7 @@ My main objective is to improve my level of English and improve my back-end skil
 ## <center> ↳   𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝚊𝚗𝚍 𝚝𝚘𝚘𝚕𝚜:
 <h4> 📍 Front-end: </h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,next,sass,css,html,bootstrap,javascript" />
+    <img src="https://skillicons.dev/icons?i=react,next,sass,css,html,bootstrap,javascript,electron" />
 </div>
 <h4> 📍 Back-end: </h4>
 <div align="left">
@@ -29,7 +29,7 @@ My main objective is to improve my level of English and improve my back-end skil
 </div>
 <h4> 📍 Tools: </h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,docker,figma,jest" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,arch,docker,figma,jest" />
 </div>
 <h4> 📍 Others: </h4>
 <div align="left">
@@ -37,7 +37,7 @@ My main objective is to improve my level of English and improve my back-end skil
 </div>
 <h4> 📍 Studyng: </h4>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=spring" />
+    <img src="https://skillicons.dev/icons?i=angular,spring,vim" />
 </div>
 
 
